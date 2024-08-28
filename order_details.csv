@@ -1,0 +1,11 @@
+name,details
+customer-email,testOrderPlacementProcess@test.com
+firstname,Testname
+lastname,LastTestName
+company,TestCompany
+street[0],TestStreet
+street[1],no1234
+street[2],West
+city,Los Santos
+postcode,116200
+telephone,4324932784532879
